@@ -786,6 +786,7 @@ summary.article + summary.article {
 
 .article-summary-header img {
   margin-bottom: 5px;
+  max-width: 100px;
 }
 
 /* Style the related posts */

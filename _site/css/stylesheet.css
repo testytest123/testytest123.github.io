@@ -306,8 +306,9 @@ figure.image figcaption {
     margin: 0px;
     position: absolute;
     top: 50%;
-    -ms-transform: translateY(-50%);
-    transform: translateY(-50%);
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
 }
 
 .puzzleGrid p {
@@ -785,6 +786,7 @@ summary.article + summary.article {
 
 .article-summary-header img {
   margin-bottom: 5px;
+  max-width: 100px;
 }
 
 /* Style the related posts */
