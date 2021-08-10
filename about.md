@@ -10,12 +10,12 @@ The year was 2001. Personal computers were on the rise and software was in high 
 
 Being familiar with the different lightweight development methodologies of the time (SCRUM, Crystal etc), the founders of “agile” sought to create a [manifesto](https://www.scrumalliance.org/resources/agile-manifesto) of the best practices and values for improving the effectiveness of software development. These values had a focus on:
 
-• Individuals and interactions over processes and tools
-• Working software over comprehensive documentation 
-• Customer collaboration over contract negotiation
-• Responding to change over following a plan
+1. Individuals and interactions over processes and tools
+2. Working software over comprehensive documentation 
+3. Customer collaboration over contract negotiation
+4. Responding to change over following a plan
 
-They also defined the principles for incremental development:
+They also defined the principles for incremental development that define the basis for a successful product:
 
 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
