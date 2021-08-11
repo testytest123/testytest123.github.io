@@ -790,6 +790,22 @@ summary.article + summary.article {
   margin-bottom: 12px;
 }
 
+.introText a {
+    font-family: HKGrotesk-Bold;
+}
+
+.introText a:hover {
+    text-decoration: underline;
+}
+
+.mainStyle.about a {
+    font-family: HKGrotesk-Bold;
+}
+
+.mainStyle.about a:hover {
+    text-decoration: underline;
+}
+
 .article-summary-header img {
   margin-bottom: 5px;
   max-width: 100px;
