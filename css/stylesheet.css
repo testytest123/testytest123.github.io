@@ -819,6 +819,11 @@ section.related-posts h2 {
   font-size: 20px;
 }
 
+.mainStyle.about h2 {
+  font-family: HKGrotesk-Bold;
+  font-size: 18px;
+}
+
 /* Add styles for miscellaneous 
    page elements here
 */
