@@ -871,6 +871,12 @@ header {
     margin-top: 10px;
 }
 
+.noRelation {
+    font-family: HKGrotesk-Regular;
+    font-size: 14px;
+    line-height: 33px;
+}
+
 /*iphone*/
 
 @media only screen and (min-device-width : 0px) and (max-device-width : 480px) and (orientation : portrait) { 
@@ -966,6 +972,15 @@ header {
     .articles .puzzleGrid:nth-of-type(1) .blackright, .articles .puzzleGrid:nth-of-type(1) .whiteleft {
         display: none !important;
     }
+    
+    .introText {
+        width: 90% !important;
+    }
+    
+    .about article {
+        width: 90% !important;
+    }
+    
 }
 
 /*tablet*/
