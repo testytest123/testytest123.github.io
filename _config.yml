@@ -23,7 +23,7 @@ stylesheets:
 # Google Analytics
 google-analytics:
   enabled: true
-  id: '282536379'
+  id: 'UA-204924030-1'
 
 # The primary language used by the website
 language: 'en'
