@@ -11,9 +11,10 @@ tags: Agile, Waterfall, Pandemic
 ---
 
 
-When studying the Agile methodology, the Waterfall model (in which progress flows downwards through design, development and deployment until you reach product completion) is one that could be considered the elephant in the room when transitioning from a “traditional” project management approach to one such as Scrum (the continuous cycle of delivering progress). It’s one of the most frequently debated topics in the industry along with Windows vs Mac, Manual vs Automated or Front End vs Back End (and let’s not forget Full Stack). 
+When studying the Agile methodology, the Waterfall model (in which progress flows downwards through design, development and deployment until you reach product completion) is one that is hard to escape when transitioning from a “traditional” project management approach to one such as Scrum (the continuous cycle of delivering progress). It’s one of the most frequently debated topics in the industry along with Windows vs Mac, Manual vs Automated or Front End vs Back End (and let’s not forget Full Stack) but what difference has it made given the impact of the COVID-19 pandemic on the economy?
 
-Surveys show that 93% of companies that had fully adopted an “agile” model before the pandemic were more successful than those that hadn’t. This demonstrates that successful as well as frequent product launches are essential with the economy struggling to get back on its feet as a result of the COVID-19 pandemic but exactly how has the Agile methodology helped businesses get through the past couple of years of lockdowns and working from home? Why is it worth transitioning from a Waterfall approach if you haven’t already done so?
+Surveys show that 93% of companies that had implemented an “agile” model prior to the COVID-19 pandemic were more successful than those that hadn’t. This demonstrates that frequent releases and updates are essential with the economy struggling to get back on its feet as a result of the pandemic but exactly how has an “agile” mindset helped businesses get through the past couple of years of lockdowns and working from home? Why is it worth transitioning from a Waterfall approach if you haven’t already done so?
+
 
 ## Adapting to Change
 
