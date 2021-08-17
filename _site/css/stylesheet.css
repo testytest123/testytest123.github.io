@@ -978,6 +978,10 @@ header {
         border-top-right-radius: 0px !important;
     }
     
+    .puzzleGrid:nth-of-type(2) .whiteright {
+        display: none !important;
+    }
+    
     .puzzleGrid:nth-of-type(4) {
         border-bottom-left-radius: 0px !important;
     }
