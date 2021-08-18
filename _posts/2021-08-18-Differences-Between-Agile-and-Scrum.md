@@ -40,5 +40,8 @@ The product demo is essential for keeping stakeholders updated with the progress
 
 The retrospective is a timeboxed meeting that takes place after the sprint is complete with the purpose of reviewing the success of each sprint. Each member of the team is encouraged to speak freely on matters related to people, relationships, processes and tools. These issues are then voted on in terms of popularity and the highest voted items are discussed in order of most popular to least popular as a way of identifying and addressing the more significant issues first opposed to those that only impact certain individuals. 
 
- 
-In conclusion, the main difference is that Agile can be considered more of a philosophy to project management whereas Scrum (and all the other frameworks that are based on the same values and principles) are frameworks used to put this philosphy into practice. In the end, there is no Scrum without Agile. 
+## Conclusion
+
+In conclusion, Agile can be considered more of a philosophy to project management whereas Scrum (and all the other approaches that are based on the same values and principles) are frameworks designed to put this philosphy into practice. It is the backbone that connects both lightweight frameworks designed for single teams as well as more robust approaches like the Scaled Agile Framework.
+
+Based on the fact that Agile and all it's values and principles were only defined after the creation of various frameworks like Scrum, it is safe to say neither Scrum or Agile would exist without each other, but are not, in fact, the same thing.  
