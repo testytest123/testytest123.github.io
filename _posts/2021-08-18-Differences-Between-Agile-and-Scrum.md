@@ -15,9 +15,9 @@ tags: Agile, Waterfall, Scrum
 
 ## Origins of Scrum
 
-Originally, all projects used to be managed using the Waterfall approach where the flow followed the gathering of requirements, design, implementation, testing and eventually deployment and maintenance of a product but as personal computing and software began to grow in popularity, this approach was considered time consuming and rigid, making it difficult to introduce new changes to the project. It was for this reason that development teams decided that customer collaboration and an improved response to change was required in order for a product to succeed. This is when various frameworks similar to Scrum began popping up in the industry around the same time that all shared the same [values and principles](https://www.scrumwithme.com/about/)  translated into a series of different processes and roles within a company that help teams structure and manage their work. These values and principles would later go on to become known as “Agile”. 
+Originally, all projects used to be managed using the Waterfall approach where the flow followed the gathering of requirements, design, implementation, testing and eventually deployment and maintenance of a product but as personal computing and software began to grow in popularity, this approach was considered time consuming and rigid, making it difficult to introduce new changes to the project. It was for this reason that development teams decided that customer collaboration and an improved response to change was required in order for a product to succeed. This is when various frameworks similar to Scrum began popping up in the industry around the same time that all shared the same [values and principles](https://www.scrumwithme.com/about/)  translated into a series of different processes and roles within a company that help teams to structure and manage their work. These values and principles would later go on to become known as “Agile”. 
 
-An overview of the Scrum model allows us to break down the framework into 5 steps or phases that are enforced by the Scrum Master and adhear to the Agile way of working. These are as follows: 
+An overview of the Scrum model allows us to break down the framework into 5 steps or phases that are enforced by the Scrum Master that allow this framework to adhear to the Agile way of working. These are as follows: 
 
 ## Product Backlog
 
@@ -44,4 +44,4 @@ The retrospective is a timeboxed meeting that takes place after the sprint is co
 
 In conclusion, Agile can be considered more of a philosophy to project management whereas Scrum (and all the other approaches that are based on the same values and principles) are frameworks designed to put this philosphy into practice. It is the backbone that connects both lightweight frameworks designed for single teams as well as more robust approaches like the Scaled Agile Framework.
 
-Based on the fact that Agile and all it's values and principles were only defined after the creation of various frameworks like Scrum, it is safe to say neither Scrum or Agile would exist without each other, but are not, in fact, the same thing.  
+Based on the fact that Agile and all it's values and principles were only defined after the creation of various frameworks like Scrum in which they existed nameless until the Agile manifesto was created back in 2001, it is safe to say neither Scrum or Agile would exist without each other, but are not, in fact, the same thing.  
