@@ -1,6 +1,6 @@
 ---
 
-title: "Migrating from Waterfall to Scrum"
+title: "Common Problems Migrating from Waterfall to Scrum"
 date: 2021-09-07 13:52:00:00 +00:00
 author: scott
 layout: post
