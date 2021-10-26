@@ -1,6 +1,6 @@
 ---
 
-title: "Agile Guideline"
+title: "Agile Guideline for Beginners"
 date: 2021-10-26 13:52:00:00 +00:00
 author: scott
 layout: post
