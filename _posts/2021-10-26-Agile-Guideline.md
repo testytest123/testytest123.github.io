@@ -26,7 +26,7 @@ Every working day of the project life cycle there should be a 15 minute meeting 
 • What they plan to achieve tomorrow 
 • What is standing in the way of achieving this (blockers)
 
-It’s important to acknowledge this meeting is about spreading awareness of what people are doing and not holding people accountable for committing to certain tasks every day. If they did achieve the tasks they said they would, this is an opportunity to learn why so you can try to resolve it as a team. 
+It’s important to acknowledge this meeting is about spreading awareness of what people are doing and not holding people accountable for committing to certain tasks every day. If they did not achieve the tasks they said they would, this is an opportunity to learn why so you can try to resolve it as a team. 
 
 ## Retrospective Meeting (essential)
 As mentioned previously, a retrospective board is set up at the start of every project where all team members can add their thoughts to throughout the project. These may consist of things they thought went well, things that did not go well, ideas for improvement, acknowledgements etc. The retrospective meeting should take place after the project is complete and last an hour. The manager or Scrum Master should lead this meeting and encourage a positive space where the following actions should occur: 
