@@ -1,7 +1,7 @@
 ---
 
 title: "What are the differences between Agile and Scrum?"
-date: 2021-08-17 13:52:00:00 +00:00
+date: 2021-09-14 13:52:00:00 +00:00
 author: scott
 layout: post
 image: 

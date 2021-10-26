@@ -1,7 +1,7 @@
 ---
 
 title: "Agile vs Waterfall (Pandemic Edition)"
-date: 2021-08-13 14:52:00:00 +00:00
+date: 2021-08-23 14:52:00:00 +00:00
 author: scott
 layout: post
 image: 
