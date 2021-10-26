@@ -12,7 +12,7 @@ tags: Agile, Beginner
 
 ![Woman vector created by pch.vector - www.freepik.com](/img/team.jpg)
 
-I was recently approached by a manager of a company (who shall remain anonymous) and told they had problems with team communication while working on projects from home. They said that their main problem was having no idea what their team was doing and was on the verge of telling their staff to go into the office more frequently for meetings to improve the communication. I suggested an alternative option that would still allow the team to work from home would be to introduce some simple Agile principles that aren't hard to stick to and can work for any type of project. Below is the guideline I shared with them that hopefully can be of some use to anyone else in a similar situation:
+I was recently approached by the manager of a company (who shall remain anonymous) and told they had problems with team communication while working on projects from home. They said that their main problem was having no idea what their team was doing and was on the verge of telling their staff to go into the office more frequently for meetings to improve the communication. I suggested an alternative option that would still allow the team to work from home would be to introduce some simple Agile principles that aren't hard to stick to and can work for any type of project. Below is the guideline I shared with them that hopefully can be of some use to anyone else in a similar situation:
 
 ## Kick Off Meeting (essential)
 When a project first starts, a one hour kick off meeting should be held before starting to ensure the following items are met:
