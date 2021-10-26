@@ -15,11 +15,9 @@ I was recently approached by a manager of a company (who shall remain anonymous)
 ## Kick Off Meeting (essential)
 When a project first starts, a one hour kick off meeting should be held before starting to ensure the following items are met:
 
-• Everyone knows the requirements of the project
-
-• You have everything you need to achieve the project goals or know how to approach anything that is still outstanding 
-
-• The team all know where the retrospective board is and how to add to it
+1. Everyone knows the requirements of the project
+2. You have everything you need to achieve the project goals or know how to approach anything that is still outstanding 
+3. The team all know where the retrospective board is and how to add to it
 
 ## Stand Up Meeting (essential)
 Every working day of the project life cycle there should be a 15 minute meeting held at the end of each day. This meeting should go through every member of the team alphabetically where they give a brief update of the following items in 30 seconds or less: 
