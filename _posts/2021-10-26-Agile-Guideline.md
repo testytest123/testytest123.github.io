@@ -6,7 +6,7 @@ author: scott
 layout: post
 image: 
 icon: deep-fried
-tags: Agile, Waterfall, Scrum, Problems
+tags: Agile, Beginner
 
 ---
 
